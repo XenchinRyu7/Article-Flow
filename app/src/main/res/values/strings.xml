@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Article Flow</string>
+    <string name="item1">About</string>
+    <string name="programming_language_image">Programming Language Image</string>
+    <string name="emailDev">saefulrohmansmantika@gmail.com</string>
+    <string name="nameDev">Saeful Rohman</string>
+    <string name="image_developer">Image Developer</string>
+
+    <string-array name="data_name">
+        <item>Java</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>JavaScript</item>
+        <item>Swift</item>
+        <item>PHP</item>
+        <item>Ruby</item>
+        <item>Go</item>
+        <item>Kotlin</item>
+        <item>C#</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Java adalah bahasa pemrograman umum yang dapat berjalan di berbagai platform. Digunakan untuk pengembangan aplikasi berbasis Java, termasuk aplikasi desktop, mobile, web, dan server-side.</item>
+        <item>Python adalah bahasa pemrograman tingkat tinggi yang mudah dipelajari dan sering digunakan untuk pengembangan web, analisis data, kecerdasan buatan, dan automasi tugas.</item>
+        <item>C++ adalah bahasa pemrograman yang dapat digunakan untuk pengembangan perangkat lunak sistem, game, dan aplikasi tingkat tinggi. Ia memberikan kontrol yang tinggi terhadap sistem komputer.</item>
+        <item>JavaScript adalah bahasa pemrograman yang digunakan untuk mengembangkan aplikasi web. Berjalan di sisi klien (browser) dan sering digunakan untuk membuat interaktivitas di halaman web.</item>
+        <item>Swift adalah bahasa pemrograman yang dikembangkan oleh Apple untuk pengembangan aplikasi iOS dan macOS. Dirancang agar lebih aman dan mudah digunakan.</item>
+        <item>PHP adalah bahasa pemrograman server-side yang umum digunakan untuk pengembangan aplikasi web dinamis. Banyak digunakan bersama dengan MySQL untuk pengembangan situs web.</item>
+        <item>Ruby adalah bahasa pemrograman dinamis yang fokus pada kesederhanaan dan produktivitas. Sering digunakan untuk pengembangan web melalui kerangka kerja Ruby on Rails.</item>
+        <item>Go (atau Golang) adalah bahasa pemrograman yang dikembangkan oleh Google. Dikenal karena kinerja tinggi dan kesederhanaannya, sering digunakan untuk pengembangan backend dan sistem.</item>
+        <item>Kotlin adalah bahasa pemrograman modern yang interoperabel dengan Java. Digunakan untuk pengembangan aplikasi Android dan juga dapat digunakan untuk pengembangan server-side.</item>
+        <item>C# (C-Sharp) adalah bahasa pemrograman yang dikembangkan oleh Microsoft. Sering digunakan untuk pengembangan aplikasi Windows, game menggunakan platform Unity, dan aplikasi perusahaan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/java</item>
+        <item>@drawable/python</item>
+        <item>@drawable/cplusplus</item>
+        <item>@drawable/javascript</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/php</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/go</item>
+        <item>@drawable/kotlin</item>
+        <item>@drawable/c_sharp</item>
+    </integer-array>
+
+    <integer-array name="data_release">
+        <item>1995</item>
+        <item>1991</item>
+        <item>1985</item>
+        <item>1995</item>
+        <item>2014</item>
+        <item>1995</item>
+        <item>1995</item>
+        <item>2007</item>
+        <item>2011</item>
+        <item>2000</item>
+    </integer-array>
+
+    <string-array name="data_inventor">
+        <item>James Gosling</item>
+        <item>Guido van Rossum</item>
+        <item>Bjarne Stroustrup</item>
+        <item>Brendan Eich</item>
+        <item>Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.</item>
+        <item>Rasmus Lerdorf</item>
+        <item>Yukihiro "Matz" Matsumoto</item>
+        <item>Robert Griesemer, Rob Pike, Ken Thompson</item>
+        <item>JetBrains</item>
+        <item>Anders Hejlsberg</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://www.oracle.com/java/</item>
+        <item>https://www.python.org/</item>
+        <item>https://isocpp.org/</item>
+        <item>https://developer.mozilla.org/en-US/docs/Web/JavaScript</item>
+        <item>https://www.swift.org/</item>
+        <item>https://www.php.net/</item>
+        <item>https://www.ruby-lang.org/en/</item>
+        <item>https://go.dev/</item>
+        <item>https://kotlinlang.org/</item>
+        <item>https://dotnet.microsoft.com/languages/csharp</item>
+    </string-array>
+
+    <string name="release_year">Tahun Rilis: %d</string>
+    <string name="inventor">Penemu: %s</string>
+    <string name="website_link">Link Website: %s</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="detail_img_desc">Gambar Bahasa pemrograman</string>
+    <string name="btn_share">Share</string>
+
+</resources>
